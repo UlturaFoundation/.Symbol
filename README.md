@@ -4,3 +4,4 @@ sch: https://www.google.com/search?q=space+colonization&amp;tbm=isch Like: https
 # Art
 ## Favorite:
 https://www.newworldencyclopedia.org/entry/Space_colonization
+https://www.newworldencyclopedia.org/entry/File:Internal_view_of_the_Stanford_torus.jpg
